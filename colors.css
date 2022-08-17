@@ -1,0 +1,14 @@
+.orange, .bisque, .brown{
+                width:30px;
+                height:35px;
+                
+            }
+            .orange{
+                background:rgb(239,69,52);
+            }
+            .bisque{
+                background: bisque;
+            }
+            .brown{
+                background:  brown;
+            }
