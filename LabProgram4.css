@@ -1,0 +1,16 @@
+#btn{
+        width: 100%;
+        height: auto ;
+        font-size: 20px;
+        background-color: lightgrey;
+        border: 1px solid grey;
+    }
+  #RESULT{
+      background-color: grey;
+  }
+table,tr,td
+  {
+    border-spacing:0cm;
+    padding: 0%;
+  }
+	
